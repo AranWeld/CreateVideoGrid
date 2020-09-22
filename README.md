@@ -37,3 +37,8 @@ Thigs that can be improved:
 -check if video file length affects runtime
 -allow text to be written on the grid image (frame number, file name etc)
 
+
+
+
+====Licence:====
+GPL - 3.0
