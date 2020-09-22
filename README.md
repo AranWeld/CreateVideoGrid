@@ -6,16 +6,21 @@ Grid images are named after subdirectory and file name
 Input variables:
 
 #Directory to look into for files (here and any subdirectories) ::
+
 pointed_directory = 'G:\\Folder1\\Folder2\\'
 
 #Directory to save the grid images ::
+
 grid_directory = 'C:\\Folder1\\grids\\'
 
 #filetype extension to look for e.g.: "*.mp4" ::
+
 pattern = "*.mp4"
 
 #Size of the grid to make ::
+
 grid_columns = 2
+
 grid_rows = 2
 
 
