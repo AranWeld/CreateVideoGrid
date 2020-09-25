@@ -5,9 +5,13 @@
 
 
 #Directory to look into for files (here and any subdirectories) ::
-pointed_directory = 'G:\\record\\20200920\\09'
+pointed_directory = 'C:\\Camera_Temp_Folder\\Dump2_22409\\20200923'
+##This should not have any '\\' at the end to save the file name corectly
+
 #Directory to save the grid images ::
-grid_directory = 'C:\\Camera_Temp_Folder\\grids2\\'
+grid_directory = 'C:\\Camera_Temp_Folder\\grids3\\20200923\\'
+## This should have a '\\' at the end or the last folder name will be prefixed to file name
+
 #filetype extension to look for e.g.: "*.mp4" ::
 pattern = "*.mp4"
 #Size of the grid to make ::
